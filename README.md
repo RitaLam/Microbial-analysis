@@ -1,7 +1,7 @@
-# Microbial-analysis
+# Description
 ___
 
-This is the goal of this analysis is to investigate the temporal and spatial effects of indoor daylight and indoor microbiome in a hospital.
+The goal of this analysis is to investigate the temporal and spatial effects of indoor daylight and indoor microbiome in a hospital.
 
 Analysis consists of 4 parts which all codes can be found in folder "script":
 
