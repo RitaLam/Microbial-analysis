@@ -1,8 +1,11 @@
-# Description
+# The temporal and spatial effects of indoor daylight on indoor microbiome in a hospital setting.
+
 ___
+### Experiment Description
+Environmental and patient samples were collected in University of Vermont Medical Centers. Samples were collected in 5 patient rooms with EC window room, and 5 with regular patient rooms. 
+<img width="937" alt="Screen Shot 2023-01-06 at 10 33 22 PM" src="https://user-images.githubusercontent.com/77307369/211134797-36c42ff6-937f-409a-aba5-b85874959285.png">
 
-The goal of this analysis is to investigate the temporal and spatial effects of indoor daylight and indoor microbiome in a hospital.
-
+### Data Analysis
 Analysis consists of 4 parts which all codes can be found in folder "script":
 
 * **PART 1**: Environmental Data Analysis
