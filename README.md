@@ -1,9 +1,12 @@
 # The temporal and spatial effects of indoor daylight on indoor microbiome in a hospital setting.
 
 ___
-### Experiment Description
-Environmental and patient samples were collected in University of Vermont Medical Centers. Samples were collected in 5 patient rooms with EC window room, and 5 with regular patient rooms. 
-<img width="937" alt="Screen Shot 2023-01-06 at 10 33 22 PM" src="https://user-images.githubusercontent.com/77307369/211134797-36c42ff6-937f-409a-aba5-b85874959285.png">
+### Experiment Design
+* Sample collection were performed in University of Vermont Medical center (USA)
+* 10 patient room were included in the study: 5 with regular window and blinds and 5 with electrochromic (EC) smart window
+* Environmental and patient samples were collected a day before patient admission (T0), first day, second day and third day of patient admission
+* 
+<img width="979" alt="Sample_Collection_workflow" src="https://user-images.githubusercontent.com/77307369/211134903-ba94f3f4-baa6-4200-9eb7-60a4fa475e5b.png">
 
 ### Data Analysis
 Analysis consists of 4 parts which all codes can be found in folder "script":
