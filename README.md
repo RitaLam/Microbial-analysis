@@ -19,7 +19,7 @@ Analysis consists of 4 parts which all codes can be found in folder **script**
 * Normality of data were assessed with Shapiro wilk test
 * Variance of data were assesed with Levee's test
 
-![Statistical_analysis_Workflow](https://user-images.githubusercontent.com/77307369/211176135-5158a121-2bbf-4dac-b249-874ffbcdf4df.png)
+![statistical-test-Workflow](https://user-images.githubusercontent.com/77307369/211176212-a38fb79e-c0f5-420c-af05-903e18cb18f4.png)
 
 All raw data can be found in folder **Raw data**
 *  Raw sensor data used for  for environmental data analysis (Part1) can be found in folder "Environmental_Data"
