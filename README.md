@@ -15,6 +15,12 @@ Analysis consists of 4 parts which all codes can be found in folder **script**
 * **PART 3**  Data Analysis in R: Sequencing data (QIIME3) processing, Beta diversity analysis 
 * **PART 4**  Alhpha diversity, EKSPAE pathogen relative abundance data analysis
 
+#### Statistical Analysis workflow:
+* Normality of data were assessed with Shapiro wilk test
+* Variance of data were assesed with Levee's test
+
+![Statistical_analysis_Workflow](https://user-images.githubusercontent.com/77307369/211176135-5158a121-2bbf-4dac-b249-874ffbcdf4df.png)
+
 All raw data can be found in folder **Raw data**
 *  Raw sensor data used for  for environmental data analysis (Part1) can be found in folder "Environmental_Data"
 *  qPCR_Data is used for PART 2 total bacteria abudnance analysis
