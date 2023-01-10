@@ -11,7 +11,8 @@ ___
 Analysis consists of 4 parts which all codes can be found in folder **script**
 
 * **PART 1**: Environmental Data Analysis
-* **PART 2**: Total bacterial abundance analysis
+* **PART 2**: Total bacterial abundance analysis (If file is too big to open, please try this link:
+(file:///Users/ritalam519/Documents/GitHub/Microbial-analysis/script/Microbial_Analysis_in_R_PART3.html)
 * **PART 3**  Data Analysis in R: Sequencing data (QIIME3) processing, Beta diversity analysis 
 * **PART 4**  Alhpha diversity, EKSPAE pathogen relative abundance data analysis
 
